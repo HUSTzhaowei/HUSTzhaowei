@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Wei Zhao, a Ph.D student in Huazhong University of Science and Technology (HUST), Wuhan, China, and my major is computer architecture.
+I’m Wei Zhao, I obtained my Ph.D. degree from Huazhong University of Science and Technology (HUST), Wuhan, China, and my major is computer architecture. Now, I'm an engineer in Alibaba Cloud.
 
 Here are some ideas to get you started:
 
